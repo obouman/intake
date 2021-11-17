@@ -19,8 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Sanne 't Hooft (vervangen door jouw naam)
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
-
+blauw
 #### Je focus:
 hier je focus (kies uit responsive óf surface plane)
  
@@ -37,13 +36,16 @@ hier je focus (kies uit responsive óf surface plane)
 
 ### Je opdracht:
 link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-
+https://www.apple.com/nl/iphone-13-pro/
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+hier de naam van de pagina  <img width="327" alt="Schermafbeelding 2021-11-17 om 12 58 21" src="https://user-images.githubusercontent.com/94326590/142196501-164730b9-d18e-4fba-92c6-0c4477749117.png">
+
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+ apple iphone 13 pro
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+hier de naam van de pagina  <img width="325" alt="Schermafbeelding 2021-11-17 om 12 58 49" src="https://user-images.githubusercontent.com/94326590/142196558-45fc19d5-906f-422f-8020-89d35542bd67.png">
+
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
