@@ -16,12 +16,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Oeds Bouman
 
 #### Je startniveau:
 blauw
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+surface plane
  
 </details>
 
@@ -54,17 +54,6 @@ hier de naam van de pagina  <img width="325" alt="Schermafbeelding 2021-11-17 om
 
 ## Breakdownschets (week 1)
 
-<details>
-<summary>uitwerken na afloop 2e werkgroep</summary>
-
-### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -84,20 +73,11 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Was vooral bezig met het huiswerk, had nog geen begin gemaakt aan mijn website.
 
 </details>
 
@@ -119,18 +99,12 @@ samen met je groepje opstellen
 
 | student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+| Kijken naar de | ...                | ...          | ...              |
+| fonts en kleur verloop| 
+ binnen apple site|
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+ik heb mijn menu balk zo gemaakt dat je een transitie hebt van klikken naar beneden en dan dat de tekst langzaam verschijnt en naar de sectie van de ipad mini gekeken waar de tekst een leuke font en kleur verloop heeft.e
 
 </details>
 
@@ -144,7 +118,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
+Ik moet meer focussen op de breakdownschetsen die ik nog niet heb gemaakt en van daar verder gaan met de website maken. 
 
 #### Titel eerste bevinding
 Hier korte omschrijving (met indien nodig een afbeelding)
